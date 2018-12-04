@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.1999998mm"
+   height="5.4250002mm"
+   viewBox="0 0 6.1999998 5.4250002"
+   version="1.1"
+   id="svg4067"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="icon-sensor.svg">
+  <defs
+     id="defs4061" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-271.14062"
+     inkscape:cy="-486.89089"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1912"
+     inkscape:window-y="8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4064">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.161909,-14.585119)">
+    <g
+       id="g56295"
+       transform="translate(7.4185833,-2.100191)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path51135"
+         style="fill:#88aa00"
+         d="m 27.443326,22.08531 -3.1,0.025 -1.6,-2.7 1.5,-2.7 3.1,-0.025 1.6,2.7 z" />
+      <g
+         id="g56287">
+        <ellipse
+           cx="25.843325"
+           cy="19.431841"
+           rx="2.2"
+           ry="2.4000001"
+           style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round"
+           id="ellipse51137" />
+        <ellipse
+           cx="25.843325"
+           cy="19.431841"
+           rx="1.9"
+           ry="2"
+           style="fill:none;stroke:#000000;stroke-width:0.20999999;stroke-linecap:round"
+           id="ellipse51139" />
+        <ellipse
+           cx="25.843325"
+           cy="19.431841"
+           rx="1.4"
+           ry="1.5"
+           style="fill:none;stroke:#000000;stroke-width:0.16;stroke-linecap:round"
+           id="ellipse51141" />
+        <ellipse
+           cx="25.843325"
+           cy="19.431841"
+           rx="0.27000001"
+           ry="0.28"
+           style="stroke:#000000;stroke-width:0.2;stroke-linecap:round"
+           id="ellipse51143" />
+      </g>
+    </g>
+  </g>
+</svg>
