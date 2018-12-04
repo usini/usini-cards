@@ -58,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77240894"
-     inkscape:cx="556.24269"
-     inkscape:cy="399.14098"
+     inkscape:zoom="0.5461756"
+     inkscape:cx="-86.57987"
+     inkscape:cy="691.49166"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -82,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -950,7 +950,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.2084687,0,0,1.1574198,-52.263412,-119.11903)"
+       transform="matrix(1.2084687,0,0,1.1574198,-51.355102,-118.39243)"
        id="layer1-67"
        inkscape:label="Calque 1">
       <g
@@ -1135,7 +1135,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.2084687,0,0,1.1574198,-96.71198,-110.71765)"
+       transform="matrix(1.2084687,0,0,1.1574198,-95.80367,-109.99105)"
        id="layer1-36"
        inkscape:label="Calque 1">
       <g
@@ -1185,7 +1185,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.2084687,0,0,1.1574198,-54.703131,-154.54176)"
+       transform="matrix(1.2084687,0,0,1.1574198,-53.794821,-153.81516)"
        id="layer1-6"
        inkscape:label="Calque 1">
       <g
@@ -1424,39 +1424,39 @@
          y="-49.350811"
          style="font-size:2.11666656px;stroke-width:0.26458332">Luminosité</tspan></text>
     <text
-       x="60.138733"
-       y="-59.523815"
+       x="60.804821"
+       y="-58.978832"
        id="text16672-3-44-7"
        xml:space="default">
       <tspan
          sodipodi:role="line"
          id="tspan16670-4-5-7"
-         x="60.138733"
-         y="-59.523815"
+         x="60.804821"
+         y="-58.978832"
          style="font-size:2.11666656px;stroke-width:0.26458332">Température / Humidité</tspan>
     </text>
     <text
-       x="60.35067"
-       y="-54.679527"
+       x="60.895653"
+       y="-54.195099"
        id="text16672-3-44-3"
        xml:space="default">
       <tspan
          sodipodi:role="line"
          id="tspan16670-4-5-3"
-         x="60.35067"
-         y="-54.679527"
+         x="60.895653"
+         y="-54.195099"
          style="font-size:2.11666656px;stroke-width:0.26458332">Température</tspan>
     </text>
     <text
-       x="60.698872"
-       y="-49.609283"
+       x="61.062191"
+       y="-48.943195"
        id="text16672-3-44-3-5"
        xml:space="default">
       <tspan
          sodipodi:role="line"
          id="tspan16670-4-5-3-0"
-         x="60.698872"
-         y="-49.609283"
+         x="61.062191"
+         y="-48.943195"
          style="font-size:2.11666656px;stroke-width:0.26458332">Poids</tspan>
     </text>
     <text

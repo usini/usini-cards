@@ -22,7 +22,7 @@ A l'aide du logiciel inkscape, ouvrez ces fichiers puis imprimer les.
 
 ## Utilisation
 
-![](usini_manual_fr.svg)
+[Mode d'emploi (pdf)](https://github.com/usini/usini-cards/blob/master/usini_manual_fr.pdf)
 
 ### Informations
 Voici les informations disponibles sur les cartes:
@@ -32,8 +32,6 @@ Voici les informations disponibles sur les cartes:
 * Bibliothèque Arduino / Exemple de test
 * Consommation électrique (en ma)
 * Prix (constaté par le créateur de la carte)
-
-### 
 
 # Cartes disponibles
 Les cartes sont triés par catégories de composants.
