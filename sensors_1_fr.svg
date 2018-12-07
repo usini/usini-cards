@@ -13,8 +13,8 @@
    version="1.1"
    viewBox="0 0 297 210"
    id="svg54642"
-   sodipodi:docname="cards_sensors_1_fr.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="sensors_1_fr.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata54646">
     <rdf:RDF>
@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="1017"
      id="namedview54644"
      showgrid="true"
-     inkscape:zoom="2.3787302"
-     inkscape:cx="57.748449"
-     inkscape:cy="201.4954"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="0.84100813"
+     inkscape:cx="584.28264"
+     inkscape:cy="370.97829"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg54642"
      inkscape:snap-global="false"
@@ -906,16 +906,6 @@
        y="91.431877"
        x="27.5471">Adafruit ADXL345/sensortest</tspan></text>
   <text
-     id="text51175-8"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="94.853592"
-     x="27.55862"><tspan
-       id="tspan51173-5"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="94.853592"
-       x="27.55862">usini.eu/adxl345</tspan></text>
-  <text
      id="text51345"
      xml:space="preserve"
      style="font-size:5.30000019px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.36000001"
@@ -1284,16 +1274,6 @@
        y="91.163315"
        x="93.980957">Sparkfun_MPU-9250_9_DOF_IMU_Breakout</tspan></text>
   <text
-     id="text51175-8-1"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="94.297447"
-     x="94.351524"><tspan
-       id="tspan51173-5-9"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="94.297447"
-       x="94.351524">usini.eu/mpu9250</tspan></text>
-  <text
      id="text51345-4"
      xml:space="preserve"
      style="font-size:5.30000019px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.36000001"
@@ -1660,16 +1640,6 @@
        style="font-size:2.11666656px;font-family:Verdana;stroke-width:0.13861312"
        y="91.362755"
        x="159.72971">Rtc_by_Makuna/DS3231_Simple</tspan></text>
-  <text
-     id="text51175-8-7"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="94.853592"
-     x="159.862"><tspan
-       id="tspan51173-5-7"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="94.853592"
-       x="159.862">usini.eu/ds3231</tspan></text>
   <text
      id="text51345-2"
      xml:space="preserve"
@@ -2042,16 +2012,6 @@
        y="91.598709"
        x="225.31194">Rtc_by_Makuna/DS1307_Simple</tspan></text>
   <text
-     id="text51175-8-3"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="94.853592"
-     x="225.60152"><tspan
-       id="tspan51173-5-3"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="94.853592"
-       x="225.60152">usini.eu/ds1307</tspan></text>
-  <text
      id="text51345-0"
      xml:space="preserve"
      style="font-size:5.30000019px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.36000001"
@@ -2413,16 +2373,6 @@
        y="183.69611"
        x="27.992014">Digital / DigitalInputPullUp</tspan></text>
   <text
-     id="text51175-8-2"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="186.95099"
-     x="28.281607"><tspan
-       id="tspan51173-5-0"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="186.95099"
-       x="28.281607">usini.eu/reedswitch</tspan></text>
-  <text
      id="text51345-8"
      xml:space="preserve"
      style="font-size:5.30000019px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.36000001"
@@ -2778,16 +2728,6 @@
        style="font-family:Verdana;stroke-width:0.13861312"
        y="183.69611"
        x="94.729301">Basic / ReadAnalogSerial</tspan></text>
-  <text
-     id="text51175-8-1-9"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="186.95099"
-     x="95.018898"><tspan
-       id="tspan51173-5-9-1"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="186.95099"
-       x="95.018898">usini.eu/ldr</tspan></text>
   <text
      id="text51345-4-3"
      xml:space="preserve"
@@ -3164,16 +3104,6 @@
        y="183.69611"
        x="160.23978">Adafruit TSL2561 / sensorapi</tspan></text>
   <text
-     id="text51175-8-7-7"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="186.95099"
-     x="160.52937"><tspan
-       id="tspan51173-5-7-8"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="186.95099"
-       x="160.52937">usini.eu/tsl2561</tspan></text>
-  <text
      id="text51345-2-9"
      xml:space="preserve"
      style="font-size:5.30000019px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.36000001"
@@ -3529,16 +3459,6 @@
        style="font-family:Verdana;stroke-width:0.13861312"
        y="183.69611"
        x="225.97929">Basic / DigitalReadSerial</tspan></text>
-  <text
-     id="text51175-8-3-3"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="186.95099"
-     x="226.26889"><tspan
-       id="tspan51173-5-3-6"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="186.95099"
-       x="226.26889">usini.eu/pir</tspan></text>
   <text
      id="text51345-0-8"
      xml:space="preserve"

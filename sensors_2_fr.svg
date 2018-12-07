@@ -12,8 +12,8 @@
    version="1.1"
    viewBox="0 0 297 210"
    id="svg54642"
-   sodipodi:docname="cards_sensors_2_fr.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="sensors_2_fr.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata54646">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="1017"
      id="namedview54644"
      showgrid="true"
-     inkscape:zoom="1.6820163"
-     inkscape:cx="651.84931"
-     inkscape:cy="260.768"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="1.1893651"
+     inkscape:cx="559.86478"
+     inkscape:cy="375.70146"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg54642"
      inkscape:snap-global="false"
@@ -879,16 +879,6 @@
        y="91.39547"
        x="27.544802">Adafruit_MPL3115A2/testmpl3115a2</tspan></text>
   <text
-     id="text51175-8"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="94.853592"
-     x="27.55862"><tspan
-       id="tspan51173-5"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="94.853592"
-       x="27.55862">usini.eu/mpl3115A2</tspan></text>
-  <text
      id="text51345"
      xml:space="preserve"
      style="font-size:5.30000019px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.36000001"
@@ -1246,16 +1236,6 @@
        y="91.556564"
        x="94.295563">BME280/BME_280_I2C_Test</tspan></text>
   <text
-     id="text51175-8-1"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="94.631134"
-     x="94.351524"><tspan
-       id="tspan51173-5-9"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="94.631134"
-       x="94.351524">usini.eu/bme280</tspan></text>
-  <text
      id="text51345-4"
      xml:space="preserve"
      style="font-size:5.30000019px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.36000001"
@@ -1602,16 +1582,6 @@
            id="tspan51167-4">?</tspan></text>
     </g>
   </g>
-  <text
-     id="text51175-8-7"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="94.853592"
-     x="159.862"><tspan
-       id="tspan51173-5-7"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="94.853592"
-       x="159.862">usini.eu/bmp280</tspan></text>
   <text
      id="text51345-2"
      xml:space="preserve"
@@ -1969,16 +1939,6 @@
        y="91.598709"
        x="225.31194">DHT-sensor-library/DHTtester</tspan></text>
   <text
-     id="text51175-8-3"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="94.853592"
-     x="225.60152"><tspan
-       id="tspan51173-5-3"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="94.853592"
-       x="225.60152">usini.eu/dht11</tspan></text>
-  <text
      id="text51345-0"
      xml:space="preserve"
      style="font-size:5.30000019px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.36000001"
@@ -2334,16 +2294,6 @@
        style="font-family:Verdana;stroke-width:0.13861312"
        y="183.69611"
        x="28.659388">Adafruit Si7021/si7021</tspan></text>
-  <text
-     id="text51175-8-2"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="186.95099"
-     x="28.504065"><tspan
-       id="tspan51173-5-0"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="186.95099"
-       x="28.504065">usini.eu/si7021</tspan></text>
   <text
      id="text51345-8"
      xml:space="preserve"
@@ -3047,16 +2997,6 @@
        y="183.69611"
        x="160.71169">Basic/AnalogReadSerial</tspan></text>
   <text
-     id="text51175-8-7-7"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="186.95099"
-     x="161.00128"><tspan
-       id="tspan51173-5-7-8"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="186.95099"
-       x="161.00128">usini.eu/watersensor1</tspan></text>
-  <text
      id="text51345-2-9"
      xml:space="preserve"
      style="font-size:5.30000019px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.36000001"
@@ -3363,16 +3303,6 @@
        style="font-family:Verdana;stroke-width:0.13861312"
        y="183.69611"
        x="225.97929">DallasTemperature/Tester</tspan></text>
-  <text
-     id="text51175-8-3-3"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="186.95099"
-     x="226.26889"><tspan
-       id="tspan51173-5-3-6"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="186.95099"
-       x="226.26889">usini.eu/ds18b20</tspan></text>
   <text
      id="text51345-0-8"
      xml:space="preserve"
@@ -6763,16 +6693,6 @@
        style="font-family:Verdana;stroke-width:0.13861312"
        y="183.47858"
        x="95.150139">Adafruit Si7021/si7021</tspan></text>
-  <text
-     id="text51175-8-2-9"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="186.73346"
-     x="95.439728"><tspan
-       id="tspan51173-5-0-3"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="186.73346"
-       x="95.439728">usini.eu/si7021</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"

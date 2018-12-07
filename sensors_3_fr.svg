@@ -12,8 +12,8 @@
    version="1.1"
    viewBox="0 0 297 210"
    id="svg54642"
-   sodipodi:docname="cards_sensors_3_fr.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="sensors_3_fr.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata54646">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="894"
-     inkscape:window-height="936"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview54644"
      showgrid="true"
-     inkscape:zoom="0.84100813"
-     inkscape:cx="274.40136"
-     inkscape:cy="595.2285"
-     inkscape:window-x="82"
-     inkscape:window-y="22"
-     inkscape:window-maximized="0"
+     inkscape:zoom="1.1893651"
+     inkscape:cx="247.91365"
+     inkscape:cy="550.13967"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg54642"
      inkscape:snap-global="false"
      showguides="false">
@@ -1166,16 +1166,6 @@
        y="91.556564"
        x="94.295563">HX711_ADC / Calibrate.ino </tspan></text>
   <text
-     id="text51175-8-1"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="94.631134"
-     x="94.351524"><tspan
-       id="tspan51173-5-9"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="94.631134"
-       x="94.351524">usini.eu/hx711</tspan></text>
-  <text
      id="text51345-4"
      xml:space="preserve"
      style="font-size:5.30000019px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.36000001"
@@ -1439,16 +1429,6 @@
        style="font-family:Verdana;stroke-width:0.13861312"
        y="91.339409"
        x="27.614628">TMP36 / SerialTemp</tspan></text>
-  <text
-     id="text51175-8-3-3-3"
-     xml:space="preserve"
-     style="font-size:2.95707965px;line-height:1.25;font-family:Verdana;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-     y="94.594284"
-     x="27.904224"><tspan
-       id="tspan51173-5-3-6-8"
-       style="font-family:Verdana;fill:#ff2a2a;fill-opacity:1;stroke-width:0.13861312"
-       y="94.594284"
-       x="27.904224">usini.eu/tmp36</tspan></text>
   <text
      id="text51345-0-8-8"
      xml:space="preserve"
