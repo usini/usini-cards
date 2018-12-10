@@ -58,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77240894"
-     inkscape:cx="377.59196"
-     inkscape:cy="473.00612"
+     inkscape:zoom="0.5461756"
+     inkscape:cx="443.05696"
+     inkscape:cy="559.91203"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -82,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1795,7 +1795,7 @@
          y="-8.4237728"
          style="fill:#000000;stroke-width:0.23399976">Digital</tspan></text>
     <g
-       transform="matrix(2.1997289,0,0,2.1997289,13.810152,-371.02662)"
+       transform="matrix(2.1997289,0,0,2.1997289,14.173474,-362.67022)"
        id="g16459-6-3">
       <path
          transform="matrix(0.44114629,0,0,0.45026039,-18.481496,77.763282)"
@@ -1828,7 +1828,7 @@
            sodipodi:role="line">SCK</tspan></text>
     </g>
     <g
-       transform="matrix(2.2665206,0,0,2.2665206,16.285478,-387.92804)"
+       transform="matrix(2.2665206,0,0,2.2665206,16.6488,-379.57164)"
        id="g16464-6-9">
       <path
          transform="matrix(0.44114629,0,0,0.45026039,-18.52469,80.950946)"
@@ -1862,7 +1862,7 @@
            sodipodi:role="line">MISO</tspan></text>
     </g>
     <g
-       transform="matrix(2.2443672,0,0,2.2443672,23.538649,-391.87469)"
+       transform="matrix(2.2443672,0,0,2.2443672,23.901971,-383.51829)"
        id="g16469-6-1">
       <path
          transform="matrix(0.44114629,0,0,0.45026039,-18.520637,84.154127)"
@@ -1896,7 +1896,7 @@
            sodipodi:role="line">MOSI</tspan></text>
     </g>
     <g
-       transform="matrix(2.8439832,0,0,2.8439832,-575.8996,-223.60531)"
+       transform="matrix(2.8439832,0,0,2.8439832,-575.53628,-215.24891)"
        id="g2683-6-7">
       <path
          transform="matrix(0.36403035,0,0,0.37155124,195.76676,4.854381)"
@@ -1932,7 +1932,7 @@
        transform="matrix(2.5345158,0,0,2.5345158,40.751376,-436.15971)"
        id="g16242-2-3">
       <path
-         transform="matrix(0.4411463,0,0,0.45026039,-33.408493,87.773871)"
+         transform="matrix(0.4411463,0,0,0.45026039,-33.480167,84.667963)"
          inkscape:transform-center-y="-2.1632711e-006"
          d="m 163.40577,148.23705 -3.06238,0.0249 -1.55274,-2.63966 1.50964,-2.66454 3.06238,-0.0249 1.55274,2.63965 z"
          inkscape:randomized="0"
@@ -1950,18 +1950,18 @@
          sodipodi:type="star" />
       <text
          id="text16216-7-1"
-         y="153.71703"
-         x="36.854801"
+         y="150.61113"
+         x="36.783127"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05842638px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04961374"
          xml:space="preserve"><tspan
            style="fill:#000000;stroke-width:0.04961374"
-           y="153.71703"
-           x="36.854801"
+           y="150.61113"
+           x="36.783127"
            id="tspan16214-5-4"
            sodipodi:role="line">SDA</tspan></text>
     </g>
     <g
-       transform="matrix(2.2581973,0,0,2.2581973,37.274009,-393.84686)"
+       transform="matrix(2.2581973,0,0,2.2581973,36.910687,-401.71883)"
        id="g16247-2-1">
       <path
          transform="matrix(0.44114629,0,0,0.45026039,-29.993773,87.817524)"
