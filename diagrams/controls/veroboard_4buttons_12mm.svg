@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32.437717mm"
-   height="14.944526mm"
-   viewBox="0 0 32.437718 14.944526"
+   width="85.814568mm"
+   height="59.735451mm"
+   viewBox="0 0 85.814569 59.735452"
    version="1.1"
    id="svg12042"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="button_tactile_12mm.svg">
+   sodipodi:docname="veroboard_4buttons_12mm.svg"
+   inkscape:export-filename="D:\Drive\usini\usini-cards\diagrams\controls\veroboard_4buttons_12mm.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs12036" />
   <sodipodi:namedview
@@ -25,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="246.59204"
-     inkscape:cy="-117.55297"
+     inkscape:zoom="1.979899"
+     inkscape:cx="181.20649"
+     inkscape:cy="116.00184"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1912"
+     inkscape:window-y="8"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -51,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +62,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-46.149246,-10.135888)">
+     transform="translate(-34.794597,-13.289189)">
     <g
        id="g4670">
       <rect
@@ -1109,12 +1112,12 @@
          y="47.456436"
          style="font-size:2.11666656px;stroke-width:0.26458332">B4</tspan></text>
     <rect
-       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50628889;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51156139;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5314"
        width="2.0316219"
-       height="9.0267248"
+       height="9.2157125"
        x="70.825233"
-       y="48.906242" />
+       y="48.717255" />
     <rect
        style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17276008;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5314-2"
@@ -1137,19 +1140,19 @@
        x="60.44297"
        y="48.964439" />
     <rect
-       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.41115522;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.39788866;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5314-9"
        width="2.0316219"
-       height="5.953125"
-       x="89.166092"
-       y="51.904404" />
+       height="5.5751486"
+       x="85.157051"
+       y="52.282383" />
     <rect
-       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.58940905;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59844488;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5314-27"
        width="2.0316219"
-       height="12.233959"
+       height="12.611935"
        x="50.812916"
-       y="45.623573" />
+       y="45.245594" />
     <rect
        style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50628889;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5314-7"
@@ -1192,12 +1195,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="52.830986"
-       y="17.329597"
+       y="17.730501"
        id="text5424"><tspan
          sodipodi:role="line"
          id="tspan5422"
          x="52.830986"
-         y="17.329597"
+         y="17.730501"
          style="stroke-width:0.26458332">VeroBoard 4 Buttons</tspan></text>
   </g>
 </svg>
