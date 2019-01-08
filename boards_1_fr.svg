@@ -40,10 +40,10 @@
      id="namedview54644"
      showgrid="true"
      inkscape:zoom="0.84100815"
-     inkscape:cx="610.72417"
-     inkscape:cy="333.94324"
-     inkscape:window-x="278"
-     inkscape:window-y="96"
+     inkscape:cx="443.08919"
+     inkscape:cy="417.74357"
+     inkscape:window-x="1928"
+     inkscape:window-y="74"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg54642"
      inkscape:snap-global="false">
@@ -1162,7 +1162,7 @@
        id="version"
        style="font-size:1.41111112px;stroke-width:0.38617125"
        y="102.0023"
-       x="24.035498">RESA 11/22/2018 A</tspan></text>
+       x="24.035498">RESA 08/01/2019 B</tspan></text>
   <text
      id="text_price"
      xml:space="preserve"
@@ -1205,7 +1205,7 @@
        x="20.164293">0019</tspan></text>
   <rect
      id="card_header_color"
-     style="fill:none;stroke:#666666;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#ff7f2a;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      ry="1.4163222"
      rx="1.045997"
      height="6.7983456"
@@ -4134,7 +4134,7 @@
        id="tspan8684"
        x="26.409754"
        y="94.44957"
-       style="font-size:2.11666656px;stroke-width:0.26458332">Arduino / Atmega328 (Old Bootloader)</tspan></text>
+       style="font-size:1.94027778px;stroke-width:0.26458332">Arduino Nano / Atmega328 (Old Bootloader)</tspan></text>
   <g
      id="g56573-0-5"
      transform="matrix(0.66832154,0,0,0.66832154,6.1743279,33.506772)">
@@ -4272,7 +4272,7 @@
        id="version-45"
        style="font-size:1.41111112px;stroke-width:0.38617125"
        y="102.44722"
-       x="90.105408">RESA 11/22/2018 A</tspan></text>
+       x="90.105408">RESA 08/01/2019 B</tspan></text>
   <text
      id="text_price-92"
      xml:space="preserve"
@@ -4315,7 +4315,7 @@
        x="86.234207">0020</tspan></text>
   <rect
      id="card_header_color-71"
-     style="fill:none;stroke:#666666;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#ff7f2a;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      ry="1.4163222"
      rx="1.045997"
      height="6.7983456"
@@ -7420,7 +7420,7 @@
        id="version-45-5"
        style="font-size:1.41111112px;stroke-width:0.38617125"
        y="102.22477"
-       x="156.39778">RESA 04/12/2018 B</tspan></text>
+       x="156.39778">RESA 08/01/2019 C</tspan></text>
   <text
      id="text_price-92-1"
      xml:space="preserve"
@@ -7463,7 +7463,7 @@
        x="152.52658">0021</tspan></text>
   <rect
      id="card_header_color-71-8"
-     style="fill:none;stroke:#666666;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#ff7f2a;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      ry="1.4163222"
      rx="1.045997"
      height="6.7983456"
@@ -9633,7 +9633,7 @@
        id="version-45-5-5"
        style="font-size:1.41111112px;stroke-width:0.38617125"
        y="101.77986"
-       x="222.02278">RESA 11/23/2018 A</tspan></text>
+       x="222.02278">RESA 08/01/2019 B</tspan></text>
   <text
      id="text_price-92-1-0"
      xml:space="preserve"
@@ -9676,7 +9676,7 @@
        x="218.15158">0022</tspan></text>
   <rect
      id="card_header_color-71-8-5"
-     style="fill:none;stroke:#666666;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#ff7f2a;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      ry="1.4163222"
      rx="1.045997"
      height="6.7983456"
@@ -13383,7 +13383,7 @@
        id="version-45-5-5-9"
        style="font-size:1.41111112px;stroke-width:0.38617125"
        y="195.17998"
-       x="24.954695">RESA 11/23/2018 A</tspan></text>
+       x="24.954695">RESA 08/01/2019 B</tspan></text>
   <text
      id="text_price-92-1-0-5"
      xml:space="preserve"
@@ -13426,7 +13426,7 @@
        x="21.083494">0023</tspan></text>
   <rect
      id="card_header_color-71-8-5-7"
-     style="fill:none;stroke:#666666;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#ff7f2a;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      ry="1.4163222"
      rx="1.045997"
      height="6.7983456"
@@ -15814,7 +15814,7 @@
        id="version-45-5-5-5"
        style="font-size:1.41111112px;stroke-width:0.38617125"
        y="195.11992"
-       x="89.975098">RESA 12/10/2018 A</tspan></text>
+       x="89.975098">RESA 08/01/2019 B</tspan></text>
   <text
      id="text_price-92-1-0-1"
      xml:space="preserve"
@@ -15857,7 +15857,7 @@
        x="86.103897">0024</tspan></text>
   <rect
      id="card_header_color-71-8-5-0"
-     style="fill:none;stroke:#666666;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#ff7f2a;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      ry="1.4163222"
      rx="1.045997"
      height="6.7983456"
@@ -17740,7 +17740,7 @@
          x="156.14397"
          y="195.02269"
          style="font-size:1.41111112px;stroke-width:0.38617125"
-         id="version-45-5-5-5-6">RESA 12/10/2018 A</tspan></text>
+         id="version-45-5-5-5-6">RESA 08/01/2019 B</tspan></text>
     <text
        x="194.69162"
        y="194.45534"
@@ -17788,7 +17788,7 @@
        height="6.7983456"
        rx="1.045997"
        ry="1.4163222"
-       style="fill:none;stroke:#666666;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#ff7f2a;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="card_header_color-71-8-5-0-4" />
     <rect
        x="152.70662"
@@ -21539,7 +21539,7 @@
        id="version-45-5-5-5-6-9"
        style="font-size:1.41111112px;stroke-width:0.38617125"
        y="194.95753"
-       x="221.29369">RESA 12/10/2018 A</tspan></text>
+       x="221.29369">RESA 08/01/2019 B</tspan></text>
   <text
      id="text_price-92-1-0-1-7-9"
      xml:space="preserve"
@@ -21582,7 +21582,7 @@
        x="217.42249">0026</tspan></text>
   <rect
      id="card_header_color-71-8-5-0-4-8"
-     style="fill:none;stroke:#666666;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#ff7f2a;stroke-width:0.73349434;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      ry="1.4163222"
      rx="1.045997"
      height="6.7983456"
